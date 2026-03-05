@@ -1,9 +1,6 @@
 {
 	"dependencies": {
 		"4D AIKit": {},
-		"text splitter": {
-			"github": "miyako/text-splitter",
-			"version": "latest"
-		}
+		"text splitter": {}
 	}
 }
